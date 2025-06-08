@@ -1,2 +1,2 @@
 # DLA_Projects
-DLA_project
+Implementation of laboratories for the Deep Learning Applications course of Artificial Intelligence Master
